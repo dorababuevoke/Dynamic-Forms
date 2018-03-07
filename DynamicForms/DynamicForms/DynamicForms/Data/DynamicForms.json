@@ -1,0 +1,30 @@
+{
+  "PageTitle": "Dynamic Form",
+  "Controls": [
+    {
+      "Type": "Label",
+      "HeadingText": "Organization",
+      "Text": "Evoke",
+      "Visibile": true
+    },
+    {
+      "Type": "Entry",
+      "HeadingText": "FullName",
+      "IsRequired": true,
+      "Visibile": true,
+      "PlaceHolderText": "FirstName And LastName"
+    },
+    {
+      "Type": "Picker",
+      "DefaultIndex": 0,
+      "Values": [ "1", "2", "3", "4", "5" ],
+      "HeadingText": "Years of Experiencce",
+      "Visibile": true
+    },
+    {
+    "Type": "ImageUpload",
+    "HeadingText": "Please Upload the image",
+    "Visibile": true
+  }
+  ]
+}
