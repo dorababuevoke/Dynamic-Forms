@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DynamicForms/DynamicForms/DynamicForms/bin/Release
+/DynamicForms/DynamicForms/DynamicForms/obj/Release
+/DynamicForms/DynamicForms/DynamicForms.Android/bin/Release
+/DynamicForms/DynamicForms/DynamicForms.Android/obj/Release
+/DynamicForms/DynamicForms/DynamicForms.iOS/bin/iPhone/Release
+/DynamicForms/DynamicForms/DynamicForms.iOS/obj/iPhone/Release
