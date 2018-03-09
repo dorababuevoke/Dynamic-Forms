@@ -16,7 +16,7 @@ namespace DynamicForms
 
         protected override void OnStart()
         {
-            // Handle when your app starts
+            // Handle when your app starts and logs the crash reports
             AppCenter.Start("android=9d0bece5-2897-4d3f-a155-f6877612b296", typeof(Analytics), typeof(Crashes));
         }
 
